@@ -25,7 +25,6 @@ namespace MyGame
                 Engine.Clear();
 
                 Engine.Draw(image, 0, 0);
-                Engine.Draw(player, 0, 0);
 
                 Engine.Show();
 
