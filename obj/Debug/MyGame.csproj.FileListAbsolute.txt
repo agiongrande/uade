@@ -66,3 +66,14 @@ C:\Users\Admin\Dropbox\Facultad\UADE\PARADIGMAS DE PROGRAMACION\ProyectoBase\Bas
 C:\Users\Admin\Dropbox\Facultad\UADE\PARADIGMAS DE PROGRAMACION\ProyectoBase\Base\obj\Debug\MyGame.csproj.CopyComplete
 C:\Users\Admin\Dropbox\Facultad\UADE\PARADIGMAS DE PROGRAMACION\ProyectoBase\Base\obj\Debug\MyGame.exe
 C:\Users\Admin\Dropbox\Facultad\UADE\PARADIGMAS DE PROGRAMACION\ProyectoBase\Base\obj\Debug\MyGame.pdb
+C:\Users\Admin\Documents\GitHub\uade\bin\Debug\assets\player.png
+C:\Users\Admin\Documents\GitHub\uade\bin\Debug\assets\fondo.png
+C:\Users\Admin\Documents\GitHub\uade\bin\Debug\MyGame.exe.config
+C:\Users\Admin\Documents\GitHub\uade\bin\Debug\MyGame.exe
+C:\Users\Admin\Documents\GitHub\uade\bin\Debug\MyGame.pdb
+C:\Users\Admin\Documents\GitHub\uade\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\uade\obj\Debug\MyGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\GitHub\uade\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\uade\obj\Debug\MyGame.csproj.CopyComplete
+C:\Users\Admin\Documents\GitHub\uade\obj\Debug\MyGame.exe
+C:\Users\Admin\Documents\GitHub\uade\obj\Debug\MyGame.pdb

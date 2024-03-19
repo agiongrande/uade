@@ -10,7 +10,8 @@ namespace MyGame
     {
                     
         static IntPtr image = Engine.LoadImage("assets/fondo.png");
-   
+        static IntPtr player = Engine.LoadImage("assets/player.png");
+
 
         static void Main(string[] args)
         {
@@ -24,7 +25,8 @@ namespace MyGame
                 Engine.Clear();
 
                 Engine.Draw(image, 0, 0);
-                
+                Engine.Draw(player, 0, 0);
+
                 Engine.Show();
 
                 Sdl.SDL_Delay(20);
